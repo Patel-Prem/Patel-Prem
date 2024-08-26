@@ -17,89 +17,26 @@
 
 <p>I'm proficient in the following languages and technologies:</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h4 align="center">Backend Technology</h4>
-<ul style="list-style: none; padding-left: 0; display: flex; justify-content: space-between">
-  <li style="display: flex; align-items: center; margin-bottom: 10px; list-style-type: none;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-line-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://www.java.com/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://www.php.net/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://isocpp.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40" height="40"/>
-    </a>
-  </li>
-</ul>
+### Languages and Tools:
 
-<h4 align="center">Frontend Technology</h4>
-<ul style="list-style: none; padding-left: 0; display: flex; justify-content: space-between">
-  <li style="display: flex; align-items: center; margin-bottom: 10px; ">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 10px; ">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    </a>
-  </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px; ">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    </a>
-  </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px; ">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-    </a>
-  </li>
-  </ul>
+#### Backend Technology
 
+| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-line-wordmark.svg) | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) | ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) | ![C++](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Python](https://www.python.org/) | [NodeJS](https://nodejs.org/) | [Java](https://www.java.com/) | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) | [PHP](https://www.php.net/) | [C++](https://isocpp.org/) |
 
-<h4 align="center">Database</h4>
-<ul style="list-style: none; padding-left: 0; display: flex; justify-content: space-between">
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a>
-  </li>
-   <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-    </a>
-  </li>
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-    </a>
-  </li>
-</ul>
+#### Frontend Technology
+
+| ![ReactJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) | ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg) |
+|:---:|:---:|:---:|:---:|
+| [ReactJS](https://reactjs.org/) | [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) | [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) | [Bootstrap](https://getbootstrap.com/) |
+
+#### Database
+
+| ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) |
+|:---:|:---:|:---:|
+| [MySQL](https://www.mysql.com/) | [MongoDB](https://www.mongodb.com/) | [PostgreSQL](https://www.postgresql.org/) |
+
 
 
 <h2>📫 Get in Touch</h2>
