@@ -38,11 +38,11 @@
 </div>
 
 <h4 align="left">Database:</h4>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 10px; align-items: center;">
+<p align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-</div>
+</p>
 
 <h2>📫 Get in Touch</h2>
 
