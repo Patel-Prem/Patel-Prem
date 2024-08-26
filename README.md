@@ -14,8 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patel-Prem&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-<p>I'm proficient in the following languages and technologies:</p>
-
 <h2>👨🏻‍💻 Languages and Tools</h2>
 
 <h3 align="center">Backend Technology:</h3>
