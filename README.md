@@ -16,7 +16,7 @@
 
 <p>I'm proficient in the following languages and technologies:</p>
 
-<h3 align="left"></> Languages and Tools:</h3>
+<h2><//> Languages and Tools</h2>
 
 <h4 align="center">Backend Technology:</h4>
 <p align="center">  
