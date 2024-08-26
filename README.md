@@ -20,11 +20,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="center">Backend Technology</h4>
 <ul style="list-style: none; padding-left: 0; display: flex; justify-content: space-between">
-  <li style="display: flex; align-items: center; margin-bottom: 10px; ">
+  <li style="display: flex; align-items: center; margin-bottom: 10px; list-style-type: none;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     </a>
-    
   </li>
   <li style="display: flex; align-items: center; margin-bottom: 10px;">
     <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
