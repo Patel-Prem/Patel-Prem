@@ -29,17 +29,15 @@
   <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
 </div>
 
-<h4 align="center">Frontend Technology</h4>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<h4 align="center">Frontend Technology:</h4>
+<p align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 10px; align-items: center;">
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/></a>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-
 </div>
+</p>
 
 <h4 align="center">Database</h4>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
